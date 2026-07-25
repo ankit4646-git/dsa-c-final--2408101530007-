@@ -26,3 +26,16 @@ gcc -std=c11 -Wall -Wextra -O2 SectionB/Q2_history.c -o q2
 
 ## Memory safety
 All dynamic memory allocated across all completed questions (Q1, Q2, C1, C2) is completely freed prior to program termination. Zero memory leaks remain.
+
+dsa-c-final-<ROLL>/
+README.md
+.gitignore
+SectionA/
+answers.txt
+SectionB/
+Q1_evaluator.c
+Q2_history.c
+SectionC/
+review.md
+C1_reverse.c
+C2_window.
