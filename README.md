@@ -6,7 +6,6 @@ This is for the final assesment submission for the July Training for DSA Using C
 ## Build
 gcc -std=c11 -Wall -Wextra -O2 SectionB/01_evaluator.c -o q1
 gcc -std=c11 -Wall -Wextra -O2 SectionB/Q2_history.c -o q2
-gcc -std=c11 -Wall -Wextra -O2 SectionB/Q3A_route.c -o q3
 
 ## Question status
 | Question | Complete / Partial / Not attempted | Known limitations |
